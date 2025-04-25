@@ -1,0 +1,16 @@
+[
+  {
+    "p_rel_url" : "Mastan-Anthati/AzureProjectWithCICID/refs/heads/main/Source_Files/athletes.csv",
+    "p_folder" : "athletes",
+    "p_file" : "athletes.parquet"
+ },
+  {
+    "p_rel_url" : "Mastan-Anthati/AzureProjectWithCICID/refs/heads/main/Source_Files/coaches.csv",
+    "p_folder" : "coaches",
+    "p_file" : "coaches.parquet"
+ },
+  {
+    "p_rel_url" : "Mastan-Anthati/AzureProjectWithCICID/refs/heads/main/Source_Files/events.csv",
+    "p_folder" : "events",
+    "p_file" : "events.parquet"
+ },
